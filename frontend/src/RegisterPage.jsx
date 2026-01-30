@@ -25,7 +25,7 @@ export default function RegisterPage() {
   })
 
   return (
-    <div classNameName="bg-gray-50 text-gray-800">
+    <div className="bg-gray-50 text-gray-800">
 
     <header className="bg-white border-b">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
